@@ -33,7 +33,7 @@
 
 | Ana Sayfa & AI Günlük Görevler | Yapay Zeka Sağlık Asistanı |
 | :---: | :---: |
-| ![Ana Sayfa](screenshots/anasayfa.png) | ![AI Asistan](screenshots/yapayzeka.png) |
+| ![Ana Sayfa](screenshots/anasayfa.png) | ![AI Asistan](screenshots/yapayzeka2.png) |
 
 | Kalori İhtiyacı Hesaplama | Antrenman Programı & İlerleme |
 | :---: | :---: |
